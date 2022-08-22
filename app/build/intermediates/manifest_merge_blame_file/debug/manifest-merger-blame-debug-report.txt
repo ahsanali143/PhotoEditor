@@ -1,0 +1,210 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.advance.photoeditor"
+4    android:versionCode="7"
+5    android:versionName="2.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission
+11-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:6:5-7:38
+12        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+12-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:6:22-78
+13        android:maxSdkVersion="28" />
+13-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:7:9-35
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:8:5-67
+14-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.REORDER_TASKS" />
+15-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+15-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
+16
+17    <application
+17-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:10:5-74:19
+18        android:name="com.advance.photoeditor.PhotoApp"
+18-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:11:9-56
+19        android:allowBackup="false"
+19-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:12:9-36
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.7.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a35111252e5ac1986bc1913b5c52b65a\core-1.7.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:fullBackupContent="false"
+22-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:13:9-42
+23        android:icon="@mipmap/ic_launcher"
+23-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:14:9-43
+24        android:label="@string/app_name"
+24-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:15:9-41
+25        android:requestLegacyExternalStorage="true"
+25-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:16:9-52
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:17:9-54
+27        android:supportsRtl="true"
+27-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:18:9-35
+28        android:theme="@style/AppTheme" >
+28-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:19:9-40
+29        <activity
+29-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:23:9-56:20
+30            android:name="com.advance.photoeditor.EditImageActivity"
+30-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:24:13-69
+31            android:exported="true"
+31-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:27:13-36
+32            android:screenOrientation="portrait"
+32-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:25:13-49
+33            android:theme="@style/AppTheme.NoActionBar" >
+33-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:26:13-56
+34            <intent-filter>
+34-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:28:13-32:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:29:17-69
+35-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:29:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:31:17-77
+37-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:31:27-74
+38            </intent-filter>
+39            <intent-filter
+39-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:34:13-41:29
+40                android:label="@string/app_intent_name"
+40-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:35:17-56
+41                android:scheme="file" >
+41-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:36:17-38
+42                <action android:name="android.intent.action.VIEW" />
+42-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:38:17-69
+42-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:38:25-66
+43
+44                <category android:name="android.intent.category.DEFAULT" />
+44-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:39:17-76
+44-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:39:27-73
+45
+46                <data android:mimeType="image/*" />
+46-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:40:17-52
+46-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:40:23-49
+47            </intent-filter>
+48            <intent-filter>
+48-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:43:13-47:29
+49                <action android:name="action_nextgen_edit" />
+49-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:44:17-62
+49-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:44:25-59
+50
+51                <category android:name="android.intent.category.DEFAULT" />
+51-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:39:17-76
+51-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:39:27-73
+52
+53                <data android:mimeType="image/*" />
+53-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:40:17-52
+53-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:40:23-49
+54            </intent-filter>
+55            <intent-filter>
+55-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:49:13-53:29
+56                <action android:name="android.intent.action.EDIT" />
+56-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:50:17-69
+56-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:50:25-66
+57
+58                <category android:name="android.intent.category.DEFAULT" />
+58-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:39:17-76
+58-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:39:27-73
+59
+60                <data android:mimeType="image/*" />
+60-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:40:17-52
+60-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:40:23-49
+61            </intent-filter>
+62        </activity>
+63
+64        <meta-data
+64-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:58:9-60:57
+65            android:name="preloaded_fonts"
+65-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:59:13-43
+66            android:resource="@array/preloaded_fonts" />
+66-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:60:13-54
+67
+68        <provider
+68-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:62:9-72:20
+69            android:name="androidx.core.content.FileProvider"
+69-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:63:13-62
+70            android:authorities="com.advance.photoeditor.fileprovider"
+70-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:64:13-71
+71            android:exported="false"
+71-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:65:13-37
+72            android:grantUriPermissions="true" >
+72-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:66:13-47
+73            <meta-data
+73-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:68:13-70:54
+74                android:name="android.support.FILE_PROVIDER_PATHS"
+74-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:69:17-67
+75                android:resource="@xml/file_paths" />
+75-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:70:17-51
+76        </provider>
+77        <provider
+77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c50611fa6023ae8c6a605bbff1dd8f42\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c50611fa6023ae8c6a605bbff1dd8f42\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+79            android:authorities="com.advance.photoeditor.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c50611fa6023ae8c6a605bbff1dd8f42\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c50611fa6023ae8c6a605bbff1dd8f42\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c50611fa6023ae8c6a605bbff1dd8f42\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c50611fa6023ae8c6a605bbff1dd8f42\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c50611fa6023ae8c6a605bbff1dd8f42\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e65ccb2d7c69cd806825c42adea86a28\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e65ccb2d7c69cd806825c42adea86a28\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e65ccb2d7c69cd806825c42adea86a28\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+87        </provider>
+88
+89        <activity
+89-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+90            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+90-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+91            android:exported="true"
+91-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+92            android:theme="@android:style/Theme" >
+92-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+93            <intent-filter>
+93-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+94                <action android:name="android.intent.action.MAIN" />
+94-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:29:17-69
+94-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:29:25-66
+95            </intent-filter>
+96        </activity>
+97        <activity
+97-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+98            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+98-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+99            android:exported="true"
+99-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+100            android:theme="@android:style/Theme" >
+100-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+101            <intent-filter>
+101-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+102                <action android:name="android.intent.action.MAIN" />
+102-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:29:17-69
+102-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:29:25-66
+103            </intent-filter>
+104        </activity>
+105        <activity
+105-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+106            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+106-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
+107            android:exported="true"
+107-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+108            android:theme="@android:style/Theme.Dialog" >
+108-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+109            <intent-filter>
+109-->[androidx.test:core:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ed2ce7bdc21bc650492d3a9e394d7240\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+110                <action android:name="android.intent.action.MAIN" />
+110-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:29:17-69
+110-->D:\AndroidStudioProjects\PhotoEditor\app\src\main\AndroidManifest.xml:29:25-66
+111            </intent-filter>
+112        </activity>
+113    </application>
+114
+115</manifest>

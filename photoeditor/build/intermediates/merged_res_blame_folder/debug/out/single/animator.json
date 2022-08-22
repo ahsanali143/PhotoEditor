@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\photoeditor\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\121c749d5b55c502deede1d11d6afdff\\fragment-1.3.6\\res\\animator\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\photoeditor\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\121c749d5b55c502deede1d11d6afdff\\fragment-1.3.6\\res\\animator\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\photoeditor\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\121c749d5b55c502deede1d11d6afdff\\fragment-1.3.6\\res\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\photoeditor\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\121c749d5b55c502deede1d11d6afdff\\fragment-1.3.6\\res\\animator\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\photoeditor\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\121c749d5b55c502deede1d11d6afdff\\fragment-1.3.6\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\photoeditor\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\121c749d5b55c502deede1d11d6afdff\\fragment-1.3.6\\res\\animator\\fragment_fade_enter.xml"
+    }
+]

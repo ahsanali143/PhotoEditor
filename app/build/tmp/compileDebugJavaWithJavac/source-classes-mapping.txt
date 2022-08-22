@@ -1,0 +1,2 @@
+com/advance/photoediting/BuildConfig.java
+ com.advance.photoediting.BuildConfig

@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_redo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_redo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_photo_filter.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_photo_filter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_oval.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_oval.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_picker_item_list.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\color_picker_item_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_image.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\activity_edit_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_photo_filter.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_photo_filter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_undo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_undo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_eraser.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_eraser.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_emoji.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\row_emoji.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_insert_emoticon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_insert_emoticon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_camera.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_camera.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_text.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_text.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_photo_filter.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_photo_filter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sticker.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sticker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sticker.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sticker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bottom_sticker_emoji_dialog.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\fragment_bottom_sticker_emoji_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sticker.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sticker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_text.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_camera.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_border_text_view.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\drawable\\rounded_border_text_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_eraser.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_eraser.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_sticker.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\row_sticker.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bottom_custom_effect_dialog.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\fragment_bottom_custom_effect_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_text.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rectangle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_rectangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_undo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_undo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gallery.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bottom_shapes_dialog.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\fragment_bottom_shapes_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_rectangle.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_rectangle.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_brush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_brush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photo_filter.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_photo_filter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gallery.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_gallery.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_eraser.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_eraser.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_original.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\drawable\\original.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_oval.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_oval.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_save.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_save.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sticker.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sticker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_text.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_oval.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_oval.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_medium.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\font\\roboto_medium.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_eraser.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_eraser.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rectangle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_rectangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_editing_tools.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\row_editing_tools.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_undo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_undo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_oval.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_oval.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_undo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_undo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_brush.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_brush.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_insert_emoticon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_insert_emoticon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_redo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_redo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_gallery.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_redo.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_redo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_insert_emoticon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_insert_emoticon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_rectangle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_rectangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sticker.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sticker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_redo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_redo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_oval.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_oval.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_redo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_redo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_brush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_brush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gallery.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_text_dialog.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\add_text_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_undo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_undo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_brush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_brush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rectangle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_rectangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_gallery.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_sticker.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sticker.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_brush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_brush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rectangle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_rectangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_photo_filter.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_photo_filter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_filter_view.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\row_filter_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_oval.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_oval.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_brush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_brush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_insert_emoticon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_insert_emoticon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_insert_emoticon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_insert_emoticon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_redo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_redo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_undo.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_undo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_eraser.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_eraser.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_save.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_eraser.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_eraser.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_undo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_undo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bottom_properties_dialog.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\layout\\fragment_bottom_properties_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sticker.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sticker.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blank_image.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\drawable\\blank_image.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_photo_filter.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_photo_filter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gallery.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_text.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paris_tower.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\drawable\\paris_tower.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_insert_emoticon.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_insert_emoticon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_brush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_brush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_eraser.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_eraser.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_redo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_redo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_text.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_insert_emoticon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_insert_emoticon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photo_filter.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_photo_filter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rectangle.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_rectangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_oval.png.flat",
+        "source": "D:\\AndroidStudioProjects\\PhotoEditor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_oval.png"
+    }
+]
